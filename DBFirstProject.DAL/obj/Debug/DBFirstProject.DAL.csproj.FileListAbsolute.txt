@@ -1,0 +1,12 @@
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\DBFirstProject.DAL.dll.config
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\DBFirstProject.DAL.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\DBFirstProject.DAL.pdb
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\EntityFramework.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\EntityFramework.xml
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\obj\Debug\DBFirstProject.DAL.csprojAssemblyReference.cache
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\obj\Debug\DBFirstProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\obj\Debug\DBFirstProject.DAL.csproj.CopyComplete
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\obj\Debug\DBFirstProject.DAL.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.DAL\obj\Debug\DBFirstProject.DAL.pdb

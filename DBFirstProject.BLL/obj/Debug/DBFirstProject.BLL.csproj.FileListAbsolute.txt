@@ -1,0 +1,12 @@
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\DBFirstProject.BLL.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\DBFirstProject.BLL.pdb
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\obj\Debug\DBFirstProject.BLL.csprojAssemblyReference.cache
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\obj\Debug\DBFirstProject.BLL.csproj.CoreCompileInputs.cache
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\obj\Debug\DBFirstProject.BLL.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\obj\Debug\DBFirstProject.BLL.pdb
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\DBFirstProject.DAL.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\EntityFramework.dll
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\DBFirstProject.DAL.pdb
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\DBFirstProject.DAL.dll.config
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\bin\Debug\EntityFramework.xml
+C:\Users\canan\source\repos\DBFirstProject\DBFirstProject.BLL\obj\Debug\DBFirstProject.BLL.csproj.CopyComplete
